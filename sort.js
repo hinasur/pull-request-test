@@ -12,23 +12,14 @@ var sortNumber = function (number) {
  };
  
  var number = [19, 3, 81, 1, 24, 21];
- 
- var reNumber = [1, 3, 5, 4 , 2];
- 
  sortNumber(number);
-<<<<<<< HEAD
  
  var number2 = [1,3,5,7,9,2,4,6,8,];
  sortNumber(number2);
  
  var reNumber = [1, 3, 5, 4 , 2];
  reSortNumber(reNumber);
-
- console.log(number);
- console.log(number2);
-=======
-reSortNumber(reNumber);
  
  console.log(number);
->>>>>>> 65ab0b100d6b365d289e054376a82c95b92dd502
+ console.log(number2);
  console.log(reNumber);
