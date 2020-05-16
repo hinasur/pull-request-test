@@ -23,4 +23,3 @@ var sortNumber = function (number) {
  console.log(number);
  console.log(number2);
  console.log(reNumber);
-
